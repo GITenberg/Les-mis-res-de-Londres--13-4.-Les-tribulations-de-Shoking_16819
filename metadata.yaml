@@ -1,0 +1,34 @@
+_repo: Les-mis-res-de-Londres--13-4.-Les-tribulations-de-Shoking_16819
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ponson du Terrail
+    aliases:
+    - Ponson du Terrail, Pierre Alexis, Vicomte de
+    - Terrail, Pierre Alexis Ponson du
+    - Du Terrail, Pierre Alexis
+    birthdate: 1829
+    deathdate: 1871
+    gutenberg_agent_id: '5878'
+    url: http://www.gutenberg.org/2009/agents/5878
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Ponson_du_Terrail
+    - http://en.wikipedia.org/wiki/Pierre_Alexis_Ponson_du_Terrail
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16819'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Les misères de Londres, 4. Les tribulations de Shoking
+url: http://www.gutenberg.org/ebooks/16819
